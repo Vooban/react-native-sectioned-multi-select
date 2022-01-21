@@ -1,11 +1,17 @@
 {
-  "name": "react-native-sectioned-multi-select",
-  "version": "0.7.2",
+  "name": "react-native-sectioned-multi-select-forked",
+  "version": "0.1.14",
   "description": "a multi (or single) select component with support for sub categories, search, chips.",
   "main": "index.js",
+  "type": "commonjs",
+  "types": "index.d.ts",
   "directories": {
     "lib": "lib"
   },
+  "files": [
+    "lib/",
+    "index.d.ts"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
