@@ -1,4 +1,6 @@
-# react-native-sectioned-multi-select
+# react-native-sectioned-multi-select-forked
+
+Note: la branche #forked est la main basé pour tc3-mobile en version 1.7.1 avec le nouveau feature suggested values.
 
 Hi, there's a breaking change in v0.8.0, I chose not to release a major version for various reasons. Please see [Icons](#icons). In short, you must pass `Icon` (from `react-native-vector-icons`, or any icon lib) to the `IconRenderer` prop now.
 
